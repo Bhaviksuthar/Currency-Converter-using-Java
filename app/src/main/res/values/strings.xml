@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="_1_0">1.0</string>
+    <string name="result">Result</string>
+    <string name="todo">TODO</string>
+    <string name="enter_value_for_conversion">Enter Value for conversion</string>
+    <string name="note_internet_requires_to_access_convert_currency_values">Note: Internet Requires to access convert currency values</string>
+    <string name="yours_currency_converter">Yours Currency Converter</string>
+</resources>
